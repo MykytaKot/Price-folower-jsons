@@ -1,13 +1,5 @@
 <products>
-  <product>
-    <id>20</id>
-    <name>Bose SoundLink Revolve+</name>
-    <description>Portable Bluetooth speaker with 360-degree sound and long battery life.</description>
-    <price>249.00</price>
-    <currency>EUR</currency>
-    <url>https://www.bose.com/soundlink-revolve-plus</url>
-    <ean>017817726016</ean>
-  </product>
+  
 
   
   <product>
