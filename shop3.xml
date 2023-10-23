@@ -9,16 +9,7 @@
     <ean>017817726016</ean>
   </product>
 
-  <product>
-    <id>21</id>
-    <name>MacBook Air M1</name>
-    <description>Apple's thin and light laptop with the M1 chip for fast performance and long battery life.</description>
-    <price>999.00</price>
-    <currency>EUR</currency>
-    <url>https://www.apple.com/macbook-air-m1</url>
-    <ean>194252026507</ean>
-  </product>
-
+  
   <product>
     <id>22</id>
     <name>Nintendo Switch</name>
